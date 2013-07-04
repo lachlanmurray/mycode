@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Lachlan Mobile App</title>
+<!-- TemplateEndEditable -->
+<link rel="stylesheet" href="http://code.jquery.com/mobile/1.0b1/jquery.mobile-1.0b1.min.css" />
+ <script type="text/javascript" src="http://code.jquery.com/jquery-1.6.4.min.js"></script>
+ <script type="text/javascript" src="http://code.jquery.com/mobile/1.0rc2/jquery.mobile-1.0rc2.min.js"></script>
+ <!-- TemplateBeginEditable name="head" -->
+ <!-- TemplateEndEditable -->
+</head>
+
+<body>
+	
+    <div data-role="page" id="something">
+    <!-- header -->
+    	<div data-role="header"><!-- TemplateBeginEditable name="header" -->header<!-- TemplateEndEditable --></div>
+        
+        <!-- content -->
+        <div data-role="content"><!-- TemplateBeginEditable name="content" -->content<!-- TemplateEndEditable --></div>
+        
+        <!-- footer -->
+        <div data-role="footer"><!-- TemplateBeginEditable name="footer" -->footer<!-- TemplateEndEditable --></div>
+        
+    </div>
+    <!-- TemplateBeginEditable name="NewPage" -->NewPage<!-- TemplateEndEditable -->
+        
+
+
+</body>
+</html>
